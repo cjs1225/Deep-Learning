@@ -19,9 +19,11 @@ Let's take journey to Deep Learning
  
  ##python
  basic of python language
+ ---
  
  ##classification
  classification
+ ---
  
  ##paper
  List of Deep learning article might be helpful to understand famous architecture
