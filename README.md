@@ -1,6 +1,6 @@
-<h2>
+<h1>
  Deep-Learning
-</h2>
+</h1>
 
 Hi, Thanks for visiting my page!
 
