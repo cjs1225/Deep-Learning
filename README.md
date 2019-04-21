@@ -1,4 +1,4 @@
-#Deep-Learning
+# Deep-Learning
 
 
 Hi, Thanks for visiting my page!
@@ -13,31 +13,41 @@ Let's take journey to Deep Learning
 </p>
  
  
+ ----------------
  
  
- ##index
+ ## index
  * [python] (#python)
  * [classification] (#classification)
  * [paper] (#paper)
  
  
- ##python
+ -----------------
+ 
+ 
+ ## python
  
  
  basic of python language
  
  
+ -----------------
  
- ##classification
+ 
+ ## classification
  
  
  classification
  
  
+ -------------------
  
- ##paper
+ 
+ ## paper
  
  
  List of Deep learning article might be helpful to understand famous architecture
  
+ 
+ --------------------
  
