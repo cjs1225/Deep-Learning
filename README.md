@@ -17,15 +17,15 @@ Let's take journey to Deep Learning
  
  
  ## index
- - [python](#python)
- - [classification](#classification)
+ - [Python-grammer](## python-grammer)
+ - [Tutorials](#tutorials)
  - [paper](#paper)
  
  
  -----------------
  
  
- ## ##python
+ ## Python-grammer
  
  
  basic of python language
@@ -39,10 +39,10 @@ Let's take journey to Deep Learning
  -----------------
  
  
- ## classification
+ ## Tutorials
  
  
- classification
+ deep learning tutorials
  
  
  -------------------
