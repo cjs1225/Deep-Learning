@@ -25,7 +25,7 @@ Let's take journey to Deep Learning
  -----------------
  
  
- ## python
+ ##python
  
  
  basic of python language
@@ -34,7 +34,7 @@ Let's take journey to Deep Learning
  -----------------
  
  
- ## classification
+ ##classification
  
  
  classification
@@ -43,7 +43,7 @@ Let's take journey to Deep Learning
  -------------------
  
  
- ## papers
+ ##papers
  
  
  List of Deep learning articles might be helpful to understand famous architecture
