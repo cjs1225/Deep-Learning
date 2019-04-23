@@ -17,9 +17,9 @@ Let's take journey to Deep Learning
  
  
  ## index
- * [python] (#python)
- * [classification] (#classification)
- * [paper] (#paper)
+ - [python](#python)
+ - [classification](#classification)
+ - [paper](#paper)
  
  
  -----------------
@@ -43,10 +43,10 @@ Let's take journey to Deep Learning
  -------------------
  
  
- ## paper
+ ## papers
  
  
- List of Deep learning article might be helpful to understand famous architecture
+ List of Deep learning articles might be helpful to understand famous architecture
  
  - AlexNet (Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012) | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "AlexNet_pdf") |
  
