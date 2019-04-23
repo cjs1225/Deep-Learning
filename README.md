@@ -25,14 +25,14 @@ Let's take journey to Deep Learning
  -----------------
  
  
- ## #python
+ <h2>#python</h2>
  
  
  basic of python language
  
  
  ```python
- Hello
+ print()
  ```
  
  
