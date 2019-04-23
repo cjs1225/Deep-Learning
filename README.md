@@ -17,7 +17,7 @@ Let's take journey to Deep Learning
  
  
  ## index
- - [python](##python)
+ - [python](#python)
  - [classification](#classification)
  - [paper](#paper)
  
@@ -25,7 +25,7 @@ Let's take journey to Deep Learning
  -----------------
  
  
- ## python
+ ## ##python
  
  
  basic of python language
