@@ -48,7 +48,9 @@ Let's take journey to Deep Learning
  
  List of Deep learning article might be helpful to understand famous architecture
  
- - VGGNet (Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014)) | [pdf](https://arxiv.org/pdf/1409.1556.pdf "vgg_pdf") |
+ - VGGNet (Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014)) | [pdf](https://arxiv.org/pdf/1409.1556.pdf "vgg_pdf") | [pdf][1] | <https://arxiv.org/pdf/1409.1556.pdf> |
+ 
+ [1]: https://arxiv.org/pdf/1409.1556.pdf "vgg_pdf"
  
  
  --------------------
