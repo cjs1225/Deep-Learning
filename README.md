@@ -25,16 +25,21 @@ Let's take journey to Deep Learning
  -----------------
  
  
- ##python
+ ## #python
  
  
  basic of python language
  
  
+ ```python
+ Hello
+ ```
+ 
+ 
  -----------------
  
  
- ##classification
+ ## classification
  
  
  classification
@@ -43,7 +48,7 @@ Let's take journey to Deep Learning
  -------------------
  
  
- ##papers
+ ## papers
  
  
  List of Deep learning articles might be helpful to understand famous architecture
@@ -59,19 +64,4 @@ Let's take journey to Deep Learning
  - What's Next..
  
  --------------------
- 
- 
- 
- 
-This work on Github:
-
-##Title
-
-###Place 1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-###Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
  
