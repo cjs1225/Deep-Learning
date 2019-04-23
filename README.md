@@ -25,7 +25,7 @@ Let's take journey to Deep Learning
  -----------------
  
  
- <h2>#python</h2>
+ # python
  
  
  basic of python language
