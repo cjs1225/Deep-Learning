@@ -48,11 +48,15 @@ Let's take journey to Deep Learning
  
  List of Deep learning article might be helpful to understand famous architecture
  
- - VGGNet (Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014)) | [pdf](https://arxiv.org/pdf/1409.1556.pdf "vgg_pdf") |
+ - AlexNet (Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012) | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "AlexNet_pdf") |
  
- - AlexNet ()
+ - VGGNet (Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014)) | [pdf](https://arxiv.org/pdf/1409.1556.pdf "VGGNet_pdf") |
  
- -
+ - GoogLeNet (Szegedy, Christian, et al. "Going deeper with convolutions." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015) | [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf "GoogLeNet_pdf") |
+ 
+ - ResNet (He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015)) | [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf "ResNet_pdf") |
+ 
+ - What's Next..
  
  --------------------
  
