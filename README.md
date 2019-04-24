@@ -53,7 +53,7 @@ Let's take journey to Deep Learning
  
  List of Deep learning articles might be helpful to understand famous architecture.
  
- *if you want to see papers with new window(tab), please click with ctrl(cmd) key.*
+ *if you want to see papers with **new window(tab)**, please click with **ctrl(cmd) key**.*
  
  - **AlexNet** (Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **"Imagenet classification with deep convolutional neural networks."** Advances in neural information processing systems. 2012) | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "AlexNet_pdf") |
  
