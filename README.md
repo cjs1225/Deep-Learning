@@ -67,7 +67,7 @@ Let's take journey to Deep Learning
  
  *if you want to see papers with **new window(tab)**, please click with **ctrl(cmd) key**.*
  
- #### Imagenet
+ ### Imagenet
  
  - **AlexNet** (Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **"Imagenet classification with deep convolutional neural networks."** Neural Information Processing Systems. 2012) | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "AlexNet_pdf") |
  
@@ -81,7 +81,7 @@ Let's take journey to Deep Learning
  - **ResNet** (He, Kaiming, et al. **"Deep residual learning for image recognition."** 2015) | [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf "ResNet_pdf") |
  
 
- #### Object Dectection
+ ### Object Dectection
  
  - **DNN based Detection** (Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. **"Deep neural networks for object detection."** Neural Information Processing Systems. 2013) | [pdf](https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf "DNN-based-Detection_pdf") |
  
