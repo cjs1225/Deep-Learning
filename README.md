@@ -55,18 +55,28 @@ Let's take journey to Deep Learning
  
  *if you want to see papers with **new window(tab)**, please click with **ctrl(cmd) key**.*
  
- - **AlexNet** (Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **"Imagenet classification with deep convolutional neural networks."** Advances in neural information processing systems. 2012) | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "AlexNet_pdf") |
+ #### Imagenet
  
- - **VGGNet** (Simonyan, Karen, and Andrew Zisserman. **"Very deep convolutional networks for large-scale image recognition."** arXiv preprint arXiv:1409.1556 (2014)) | [pdf](https://arxiv.org/pdf/1409.1556.pdf "VGGNet_pdf") |
+ - **AlexNet** (Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **"Imagenet classification with deep convolutional neural networks."** Neural Information Processing Systems. 2012) | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "AlexNet_pdf") |
+ 
+ - **VGGNet** (Simonyan, Karen, and Andrew Zisserman. **"Very deep convolutional networks for large-scale image recognition."** (2014)) | [pdf](https://arxiv.org/pdf/1409.1556.pdf "VGGNet_pdf") |
  
  - **Network In Network(NIN)** (Min Lin, Qiang Chen, Shuicheng Yan. **"Network In Network
 ."** 2014) | [pdf](https://arxiv.org/pdf/1312.4400.pdf "NIN_pdf") |
  
- - **GoogLeNet** (Szegedy, Christian, et al. **"Going deeper with convolutions."** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015) | [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf "GoogLeNet_pdf") |
+ - **GoogLeNet** (Szegedy, Christian, et al. **"Going deeper with convolutions."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf "GoogLeNet_pdf") |
  
- - **ResNet** (He, Kaiming, et al. **"Deep residual learning for image recognition."** arXiv preprint arXiv:1512.03385 (2015)) | [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf "ResNet_pdf") |
+ - **ResNet** (He, Kaiming, et al. **"Deep residual learning for image recognition."** 2015) | [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf "ResNet_pdf") |
  
- - What's Next..
+
+ #### Object Dectection
+ 
+ - **DNN based Detection** (Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. **"Deep neural networks for object detection."** Neural Information Processing Systems. 2013) | [pdf](https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf "DNN-based-Detection_pdf") |
+ 
+ - **R-CNN** (Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. **"Rich feature hierarchies for accurate object detection and semantic segmentation."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://arxiv.org/pdf/1311.2524.pdf "R-CNN_pdf") |
+ 
+ -
+ 
  
  --------------------
  
