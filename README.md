@@ -18,8 +18,11 @@ Let's take journey to Deep Learning
  
  ## index
  - [Python](#python)
+ - [Kaggle](#kaggle)
  - [Tutorials](#tutorials)
  - [Papers](#papers)
+ - [Deep Learning Blogs](#deep-learning-blogs)
+ - [Lectures](#lectures)
  
  
  -----------------
@@ -34,6 +37,15 @@ Let's take journey to Deep Learning
  ```python
  print()
  ```
+ 
+ 
+ ------------------
+ 
+ 
+ ## Kaggle
+ List of my kaggle project list, Tips
+ 
+ * Kaggle Notebook Shortcuts
  
  
  -----------------
@@ -94,12 +106,8 @@ Let's take journey to Deep Learning
  
 
  - video lectures
+    - (CS231n) Convolutional Neural Networks for Visual Recognition, Stanford University | [Web](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv "CS231n_youtube") |
  
- 
-  - (CS231n) Convolutional Neural Networks for Visual Recognition, Stanford University | [Web](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv "CS231n_youtube") |
- 
- 
-  -
   
 ----------------------
  
