@@ -16,7 +16,7 @@ Let's take journey to Deep Learning
  ----------------
  
  
- ## index
+ ## Index
  - [Python](#python)
  - [Kaggle](#kaggle)
  - [Tutorials](#tutorials)
@@ -45,7 +45,7 @@ Let's take journey to Deep Learning
  ## Kaggle
  List of my kaggle project list, Tips
  
- * Kaggle Notebook Shortcuts
+ * [Kaggle Notebook Shortcuts]( "kaggle_notebook_shortcuts")
  
  
  -----------------
