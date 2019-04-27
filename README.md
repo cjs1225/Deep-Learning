@@ -83,7 +83,7 @@ Let's take journey to Deep Learning
  
  ## Deep-Learning Blogs
  
- - Adit Deshpande - A Beginner's Guide To Understanding Convolutional Neural Networks | [Web](A Beginner's Guide To Understanding Convolutional Neural Networks "Adit_Deshpande_web") |
+ - Adit Deshpande - A Beginner's Guide To Understanding Convolutional Neural Networks | [Web](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/ "Adit_Deshpande_web") |
  
  - 
  
