@@ -43,10 +43,20 @@ Let's take journey to Deep Learning
  
  
  ## Kaggle
+ 
  List of my kaggle project list, Tips
  
  * [Kaggle Notebook Shortcuts](https://github.com/cjs1225/Deep-Learning/blob/master/Jupyter%20Notebook%20Shortcuts.ipynb "kaggle_notebook_shortcuts")
  
+ * [Cat vs Dogs]()
+ 
+ * [Pneumonia]()
+ 
+ * [Lung segmentation]()
+ 
+ * [Blood Cell Classification]()
+ 
+ * 
  
  -----------------
  
