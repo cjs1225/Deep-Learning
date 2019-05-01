@@ -31,11 +31,11 @@ Let's take journey to Deep Learning
  ## Python
  
  
- basic of python language
+ PEP 20 -- The Zen of Python | [Web](https://www.python.org/dev/peps/pep-0020/ "PEP_20") |
  
  
  ```python
- import this = PEP 20 (Zen of Python)
+ import this
  ```
  
  
