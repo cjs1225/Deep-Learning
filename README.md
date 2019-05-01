@@ -35,7 +35,7 @@ Let's take journey to Deep Learning
  
  
  ```python
- print()
+ import this = PEP 20 (Zen of Python)
  ```
  
  
