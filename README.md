@@ -99,6 +99,9 @@ Let's take journey to Deep Learning
  
  - **Fast R-CNN** (Ross Girshick et al. **Fast R-CNN** International Conference on Computer Vision. 2015) | [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf "Fast_R-CNN_pdf") |
  
+ - **Faster R-CNN** (Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun. **"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://arxiv.org/pdf/1506.01497.pdf "Faster_R-CNN_pdf") | 
+ 
+ 
  
  --------------------
  
