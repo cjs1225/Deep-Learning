@@ -97,11 +97,17 @@ Let's take journey to Deep Learning
  
  - **R-CNN** (Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. **"Rich feature hierarchies for accurate object detection and semantic segmentation."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://arxiv.org/pdf/1311.2524.pdf "R-CNN_pdf") |
  
- - **Fast R-CNN** (Ross Girshick et al. **Fast R-CNN** International Conference on Computer Vision. 2015) | [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf "Fast_R-CNN_pdf") |
+ - **Fast R-CNN** (Ross Girshick et al. **"Fast R-CNN."** International Conference on Computer Vision. 2015) | [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf "Fast_R-CNN_pdf") |
  
- - **Faster R-CNN** (Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun. **"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://arxiv.org/pdf/1506.01497.pdf "Faster_R-CNN_pdf") | 
+ - **Faster R-CNN** (Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun. **"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."** Neural Information Processing Systems. 2015) | [pdf](https://arxiv.org/pdf/1506.01497.pdf "Faster_R-CNN_pdf") | 
  
- - **Mask R-CNN** (Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick. **Mask R-CNN** Computer Vision and Pattern Recognition. 2017) | [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf "Mask_R-CNN_pdf") | 
+ - **YOLO** (Redmon, Joseph, et al. **"You only look once: Unified, real-time object detection."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://arxiv.org/pdf/1506.02640.pdf "YOLO_pdf") |
+ 
+ - **SSD** (Wei Liu, Dragomir Anguelov, et al. **"SSD: Single Shot MultiBox Detector."** European Conference on Computer Vision. 2016) | [pdf](https://www.cs.unc.edu/~wliu/papers/ssd.pdf "SSD_pdf") |
+ 
+ - **Retina Net** (Tsung-Yi Lin et al.**"Focal Loss for Dense Object Detection."** International Conference on Computer Vision. 2017) | [pdf](https://arxiv.org/pdf/1708.02002.pdf "Retina_net_pdf") |
+ 
+ - **Mask R-CNN** (Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick. **"Mask R-CNN."** International Conference on Conputer Vision. 2017) | [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf "Mask_R-CNN_pdf") | 
  
  --------------------
  
