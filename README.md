@@ -101,7 +101,7 @@ Let's take journey to Deep Learning
  
  - **Faster R-CNN** (Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun. **"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://arxiv.org/pdf/1506.01497.pdf "Faster_R-CNN_pdf") | 
  
- - **Mask R-CNN** () | [pdf]( "Mask_R-CNN_pdf") | 
+ - **Mask R-CNN** (Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick. **Mask R-CNN** Computer Vision and Pattern Recognition. 2017) | [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf "Mask_R-CNN_pdf") | 
  
  --------------------
  
