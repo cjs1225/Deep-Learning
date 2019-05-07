@@ -114,6 +114,8 @@ Let's take journey to Deep Learning
  
  ## Deep-Learning Blogs
  
+ - CS231n - Convolutional Neural Networks for Visual Recognition | [Web](http://cs231n.github.io/convolutional-networks/ "CS231n_Web") |
+ 
  - Adit Deshpande - A Beginner's Guide To Understanding Convolutional Neural Networks | [Web](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/ "Adit_Deshpande_web") |
  
  - Lazy Programmer - Deep Learning and Artificial Intelligence | [Web](https://lazyprogrammer.me/ "Lazy_programer_web") |
