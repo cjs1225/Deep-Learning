@@ -88,7 +88,7 @@ Let's take journey to Deep Learning
  
  - **GoogLeNet** (Szegedy, Christian, et al. **"Going deeper with convolutions."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf "GoogLeNet_pdf") |
  
- - **ResNet** (He, Kaiming, et al. **"Deep residual learning for image recognition."** 2015) | [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf "ResNet_pdf") |
+ - **ResNet** (He, Kaiming, et al. **"Deep residual learning for image recognition."** International Conference and Computer Vision.2015) | [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf "ResNet_pdf") |
  
 
  ### Object Dectection
