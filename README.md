@@ -9,7 +9,7 @@ If you have interest in this page, it would be my pleasure to fork/watch the pag
 Let's take journey to Deep Learning
 
 <p align="center">
- <img src="https://blogs.nvidia.com/wp-content/uploads/2018/04/xx-health-care-key-visual.jpg"; width="500px">
+ <img src="https://blogs.nvidia.com/wp-content/uploads/2018/04/xx-health-care-key-visual.jpg"; width="700px">
 </p>
  
  
