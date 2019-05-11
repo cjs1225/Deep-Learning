@@ -122,7 +122,7 @@ Let's take journey to Deep Learning
  
  - Lazy Programmer - Deep Learning and Artificial Intelligence | [Web](https://lazyprogrammer.me/ "Lazy_programer_web") |
  
- - 
+ - Michael Nielsen - Neural Network and Deep learning | [Web](http://neuralnetworksanddeeplearning.com/ "Michael Nielsen_web") |
  
  
  ---------------------
