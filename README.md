@@ -31,12 +31,17 @@ Let's take journey to Deep Learning
  ## Python
  
  
- PEP 20 -- The Zen of Python | [Web](https://www.python.org/dev/peps/pep-0020/ "PEP_20") |
+ - PEP 20 -- The Zen of Python | [Web](https://www.python.org/dev/peps/pep-0020/ "PEP_20") |
  
+
+  ```python
+  import this
+  ```
+  
  
- ```python
- import this
- ```
+ - ...
+ 
+ - Crawling
  
  
  ------------------
