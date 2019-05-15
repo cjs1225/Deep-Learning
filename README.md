@@ -72,6 +72,9 @@ Let's take journey to Deep Learning
  
  deep learning tutorials
  
+ * [Fashion-MNIST]()
+ 
+ * [CIFAR-10]()
  
  -------------------
  
