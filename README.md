@@ -104,7 +104,7 @@ Let's take journey to Deep Learning
  
  - **DNN based Detection** (Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. **"Deep neural networks for object detection."** Neural Information Processing Systems. 2013) | [pdf](https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf "DNN-based-Detection_pdf") |
  
- - **R-CNN** (Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. **"Rich feature hierarchies for accurate object detection and semantic segmentation."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://arxiv.org/pdf/1311.2524.pdf "R-CNN_pdf") |
+ - **R-CNN** (Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. **"Rich feature hierarchies for accurate object detection and semantic segmentation."** Computer Vision and Pattern Recognition. 2014) | [pdf](https://arxiv.org/pdf/1311.2524.pdf "R-CNN_pdf") |
  
  - **Fast R-CNN** (Ross Girshick et al. **"Fast R-CNN."** International Conference on Computer Vision. 2015) | [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf "Fast_R-CNN_pdf") |
  
@@ -113,6 +113,9 @@ Let's take journey to Deep Learning
  - **YOLO** (Redmon, Joseph, et al. **"You only look once: Unified, real-time object detection."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://arxiv.org/pdf/1506.02640.pdf "YOLO_pdf") |
  
  - **SSD** (Wei Liu, Dragomir Anguelov, et al. **"SSD: Single Shot MultiBox Detector."** European Conference on Computer Vision. 2016) | [pdf](https://www.cs.unc.edu/~wliu/papers/ssd.pdf "SSD_pdf") |
+ 
+ **R-FCN** (Jifeng Dai, Yi Li, Kaiming He, Jian Sun. **R-FCN: Object Detection via Region-based Fully Convolutional Networks
+** Neural Information Processing Systems. 2016) | [pdf](https://arxiv.org/pdf/1605.06409.pdf "R-FCN_pdf") |
  
  - **Retina Net** (Tsung-Yi Lin et al.**"Focal Loss for Dense Object Detection."** International Conference on Computer Vision. 2017) | [pdf](https://arxiv.org/pdf/1708.02002.pdf "Retina_net_pdf") |
  
