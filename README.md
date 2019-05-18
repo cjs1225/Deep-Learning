@@ -114,8 +114,7 @@ Let's take journey to Deep Learning
  
  - **SSD** (Wei Liu, Dragomir Anguelov, et al. **"SSD: Single Shot MultiBox Detector."** European Conference on Computer Vision. 2016) | [pdf](https://www.cs.unc.edu/~wliu/papers/ssd.pdf "SSD_pdf") |
  
- - **R-FCN** (Jifeng Dai, Yi Li, Kaiming He, Jian Sun. **R-FCN: Object Detection via Region-based Fully Convolutional Networks
-** Neural Information Processing Systems. 2016) | [pdf](https://arxiv.org/pdf/1605.06409.pdf "R-FCN_pdf") |
+ - **R-FCN** (Jifeng Dai, Yi Li, Kaiming He, Jian Sun. **"R-FCN: Object Detection via Region-based Fully Convolutional Networks."** Neural Information Processing Systems. 2016) | [pdf](https://arxiv.org/pdf/1605.06409.pdf "R-FCN_pdf") |
  
  - **Retina Net** (Tsung-Yi Lin et al.**"Focal Loss for Dense Object Detection."** International Conference on Computer Vision. 2017) | [pdf](https://arxiv.org/pdf/1708.02002.pdf "Retina_net_pdf") |
  
