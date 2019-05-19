@@ -106,6 +106,8 @@ Let's take journey to Deep Learning
  
  - **R-CNN** (Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. **"Rich feature hierarchies for accurate object detection and semantic segmentation."** Computer Vision and Pattern Recognition. 2014) | [pdf](https://arxiv.org/pdf/1311.2524.pdf "R-CNN_pdf") |
  
+ - **SPPNet** (Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. **"Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition."** European Conference on Computer Vision. 2014) | [pdf](https://arxiv.org/pdf/1406.4729.pdf "SPPNet_pdf) |
+ 
  - **Fast R-CNN** (Ross Girshick et al. **"Fast R-CNN."** International Conference on Computer Vision. 2015) | [pdf](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf "Fast_R-CNN_pdf") |
  
  - **Faster R-CNN** (Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun. **"Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."** Neural Information Processing Systems. 2015) | [pdf](https://arxiv.org/pdf/1506.01497.pdf "Faster_R-CNN_pdf") | 
