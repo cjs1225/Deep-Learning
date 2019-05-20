@@ -62,7 +62,7 @@ Let's take journey to Deep Learning
  
  * [Blood Cell Classification]()
  
- * 
+ * [Google LandMark Recognition 2019]()
  
  -----------------
  
