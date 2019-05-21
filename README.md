@@ -137,6 +137,7 @@ Let's take journey to Deep Learning
  
  - Michael Nielsen - Neural Network and Deep learning | [Web](http://neuralnetworksanddeeplearning.com/ "Michael Nielsen_web") |
  
+ - Ian Goodfellow and Yoshua Bengio and Aaron Courville - Deep Learning | [Web](http://www.deeplearningbook.org/ "MIT_Press_Book_web") |
  
  ---------------------
  
