@@ -139,6 +139,8 @@ Let's take journey to Deep Learning
  
  - Ian Goodfellow and Yoshua Bengio and Aaron Courville - Deep Learning | [Web](http://www.deeplearningbook.org/ "MIT_Press_Book_web") |
  
+ - Machine Learning Cheatsheet | [Web](https://ml-cheatsheet.readthedocs.io/en/latest/index.html "Machine_Learning_Cheatsheet_web") |
+ 
  ---------------------
  
  ## Lectures
