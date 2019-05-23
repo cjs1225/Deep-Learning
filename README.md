@@ -148,6 +148,8 @@ Let's take journey to Deep Learning
 
  - video lectures
     - (CS231n) Convolutional Neural Networks for Visual Recognition, Stanford University | [Web](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv "CS231n_youtube") |
+    
+    - (DLSS) Deep Learning Summer School, Montreal 2017 | [Web](http://videolectures.net/deeplearning2017_montreal/ "DLSS_lecture") |
 
  - Textbook
     -  Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. **"Deep learning."** An MIT Press book. (2015) | [Web]( "Deep_learning") |
