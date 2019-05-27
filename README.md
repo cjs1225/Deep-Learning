@@ -129,7 +129,12 @@ Let's take journey to Deep Learning
  
  - **Retina Net** (Tsung-Yi Lin et al.**"Focal Loss for Dense Object Detection."** International Conference on Computer Vision. 2017) | [pdf](https://arxiv.org/pdf/1708.02002.pdf "Retina_net_pdf") |
  
- - **Mask R-CNN** (Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick. **"Mask R-CNN."** International Conference on Conputer Vision. 2017) | [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf "Mask_R-CNN_pdf") | 
+ - **Mask R-CNN** (Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick. **"Mask R-CNN."** International Conference on Conputer Vision. 2017) | [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf "Mask_R-CNN_pdf") |
+ 
+ 
+ ### Segmentation
+ 
+ -
  
  --------------------
  
