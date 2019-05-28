@@ -132,9 +132,11 @@ Let's take journey to Deep Learning
  - **Mask R-CNN** (Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick. **"Mask R-CNN."** International Conference on Conputer Vision. 2017) | [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf "Mask_R-CNN_pdf") |
  
  
- ### Segmentation
+ ### Semantic Segmentation
  
- -
+ - **U-Net** () | [pdf]( "U_Net_pdf") |
+ 
+ - **U-Net++** () | [pdf]( "U_Net_plus_plus_pdf") |
  
  --------------------
  
