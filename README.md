@@ -70,9 +70,7 @@ Let's take journey to Deep Learning
  * [Lung segmentation]()
  
  * [Blood Cell Classification]()
- 
- * [Google LandMark Recognition 2019]()
- 
+  
  -----------------
  
  
@@ -167,6 +165,8 @@ Let's take journey to Deep Learning
 
  - video lectures
     - (CS231n) Convolutional Neural Networks for Visual Recognition, Stanford University | [Web](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv "CS231n_youtube") |
+    
+    - (11-785@CMU) Introduction to Deep Learning | [Web](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/playlists "CMU_youtube") | 
     
     - (DLSS) Deep Learning Summer School, Montreal 2017 | [Web](http://videolectures.net/deeplearning2017_montreal/ "DLSS_lecture") |
 
