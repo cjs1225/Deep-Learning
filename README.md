@@ -135,7 +135,7 @@ Let's take journey to Deep Learning
  
  - **FCN** (J. Long, E. Shelhamer, and T. Darrell. **"Fully convolutional networks for semantic segmentation."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf "FCN_Seg_pdf") |
  
- - **U-Net** () | [pdf]( "U_Net_pdf") |
+ - **U-Net** (Olaf Ronneberger, Philipp Fischer, Thomas Brox. **"U-Net: Convolutional Networks for Biomedical Image Segmentation."** 2015) | [pdf](https://arxiv.org/pdf/1505.04597.pdf "U_Net_pdf") |
  
  - **U-Net++** () | [pdf]( "U_Net_plus_plus_pdf") |
  
