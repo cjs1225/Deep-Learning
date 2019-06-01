@@ -144,6 +144,8 @@ Let's take journey to Deep Learning
  
  ## Deep-Learning Blogs
  
+ - Keras Home - Keras Documentation | [Web](https://keras.io/ "keras_home_web") |
+ 
  - CS231n - Convolutional Neural Networks for Visual Recognition | [Web](http://cs231n.github.io/convolutional-networks/ "CS231n_Web") |
  
  - A Neural Network Playground | [Web](https://playground.tensorflow.org "Neural_Network_Playground_web") |
