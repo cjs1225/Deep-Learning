@@ -40,10 +40,10 @@ Let's take journey to Deep Learning
   
  
  - Basics
-   - Python Numpy Tutorials | [Web](http://cs231n.github.io/python-numpy-tutorial/ "Python_Numpy_Tutorials") |
+   - Python Basic | []() |
  
  - Numpy
-   - ~~
+   - Python Numpy Tutorials | [Web](http://cs231n.github.io/python-numpy-tutorial/ "Python_Numpy_Tutorials") | 
    
  - Pandas
    - ~~
