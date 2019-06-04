@@ -140,6 +140,12 @@ Let's take journey to Deep Learning
  
  - **U-Net++** () | [pdf]( "U_Net_plus_plus_pdf") |
  
+ 
+ ### Etc
+ 
+ 
+ - **blah** ( **"Striving for simplicity: The all convolutional net"**) | [pdf](https://arxiv.org/pdf/1412.6806.pdf "all_conv_net_pdf") |
+ 
  --------------------
  
  
