@@ -1,2 +1,4 @@
-This is Python Basic Rules.
+# This is Python Basic Page
+
+### 1. 
 
