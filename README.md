@@ -167,6 +167,8 @@ Let's take journey to Deep Learning
  
  - Machine Learning Cheatsheet | [Web](https://ml-cheatsheet.readthedocs.io/en/latest/index.html "Machine_Learning_Cheatsheet_web") |
  
+ - Shervine Amidi - Convolutional Neural Networks Cheatsheet | [Web](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks "Shervine_Amidi_Web") |
+ 
  ---------------------
  
  ## Lectures
