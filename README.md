@@ -171,6 +171,12 @@ Let's take journey to Deep Learning
  
  ---------------------
  
+ ## Mathematics
+ 
+ - Matrix Calculus - The Matrix Calculus You Need For Deep Learning | [Web](https://explained.ai/matrix-calculus/index.html "Matrix_Calculus_web") |
+ 
+ ---------------------
+ 
  ## Lectures
  
 
