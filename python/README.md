@@ -2,13 +2,13 @@
 
 ### 1.
 
-    - Multi-Line Statements and Strings
-    - Conditionals
-    - Functions
-    - The While Loop
-    - Break, Continue and the Try Statement
-    - The For Loop
-    - Classes
+- Multi-Line Statements and Strings
+- Conditionals
+- Functions
+- The While Loop
+- Break, Continue and the Try Statement
+- The For Loop
+- Classes
 
 ### 2.
     - Variables and Memory References
