@@ -1,7 +1,8 @@
 # This is Python Basic Page
 
-### 1.
+## STEP 1
 
+### 1.
 - Multi-Line Statements and Strings
 - Conditionals
 - Functions
@@ -89,3 +90,18 @@
 - Command-Line Arguments
 - Sentinel values for Parameter Defaults
 - Simulating a simple Switch in Python
+
+## STEP 2
+
+### 1. Sequences
+
+### 2. Iterables and Iterators
+
+### 3. Generators
+
+### 4. Iteration Tools
+
+### 5. Context Managers
+
+### 6. Generator Based Coroutine
+
