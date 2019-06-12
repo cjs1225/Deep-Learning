@@ -2,7 +2,7 @@
 
 ## STEP 1
 
-### 1.
+### 1. Basic step
 - Multi-Line Statements and Strings
 - Conditionals
 - Functions
@@ -11,7 +11,7 @@
 - The For Loop
 - Classes
 
-### 2.
+### 2. Variables and Memory
 - Variables and Memory References
 - Reference Counting
 - Garbage Collection
@@ -26,7 +26,7 @@
 - Python Optimizations - String Interning
 - Python Optimizations - Peephole
     
-### 3.
+### 3. Numeric Types
 - Integers
 - Rational Numbers
 - Floats
@@ -35,7 +35,7 @@
 - Booleans
 - Comparison Operators
     
-### 4. 
+### 4. Function Parameters
 - Positional Arguments
 - Unpacking Iterables
 - Extended Unpacking
@@ -47,7 +47,7 @@
 - Parameter Defaults - Beware
 - Parameter Defaults - Beware Again
     
-### 5. 
+### 5. First-Class Functions
 - Docstings and Annotations
 - Lamda Expressions
 - Lamda and Sorting
@@ -59,17 +59,17 @@
 - Partial Functions
 - The operator Module
     
-### 6. 
+### 6. Scope, Closure and Decorators
 - Global and Local Scopes
 - Nonlocal Scopes
 - Closures and Application
 - Decorators and Application
     
-### 7.
+### 7. Tuples as Data Records
 - Tuples as Data Structures
 - Named Tuples - Modifying, Extending, Docstrings, DefaultValues and Application
 
-### 8.
+### 8. Modules, Packages and Namespace
 - Module 
 - The Way of Import Modules
 - Import and Importlib
@@ -80,7 +80,7 @@
 - Structing _package_ Imports
 - Zipped Packages
 
-### 9.
+### 9. Extras
 - Python 3.6
 - Random Seeds
 - Random Choices
