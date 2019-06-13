@@ -1,4 +1,8 @@
-# This is Python Basic Page
+# Python
+- I could regard this page as right way of learning python. 
+There are so many videos in youtube channel, website and lectures. And you probably confuse which one is best courses. So, I made some tips for python learner
+- If you are beginner lever of programming or python newbie, then you'd better watch some python lessons in youtube. It means this lecture isn't for first level. 
+
 
 ## STEP 1
 
