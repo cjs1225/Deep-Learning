@@ -77,6 +77,7 @@ Let's take journey to Deep Learning
  
  ## Tutorials
  
+ * [Shortcuts for Jupyter Notebook / Kaggle Notebook](https://github.com/cjs1225/Deep-Learning/blob/master/Jupyter%20Notebook%20Shortcuts.ipynb "kaggle_notebook_shortcuts")
  
  deep learning tutorials
  
