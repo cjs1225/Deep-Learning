@@ -45,10 +45,10 @@ Let's take journey to Deep Learning
   ```python
   import this
   ```
-  
+ 
  
  - Basics
-   - Python Basic | []() |
+   - Python Basic | [Web](https://github.com/cjs1225/Deep-Learning/tree/master/python) |
  
  - Numpy
    - Python Numpy Tutorials | [Web](http://cs231n.github.io/python-numpy-tutorial/ "Python_Numpy_Tutorials") | 
