@@ -17,6 +17,7 @@ Let's take journey to Deep Learning
  
  
  ## Index
+ - [Mathematics](#mathematics)
  - [Python](#python)
  - [Kaggle](#kaggle)
  - [Tutorials](#tutorials)
@@ -27,6 +28,13 @@ Let's take journey to Deep Learning
  
  -----------------
  
+ ## Mathematics
+ 
+ - Matrix Calculus - The Matrix Calculus You Need For Deep Learning | [Web](https://explained.ai/matrix-calculus/index.html "Matrix_Calculus_web") |
+ 
+ - 
+ 
+ ---------------------
  
  ## Python
  
@@ -155,12 +163,6 @@ Let's take journey to Deep Learning
  - Machine Learning Cheatsheet | [Web](https://ml-cheatsheet.readthedocs.io/en/latest/index.html "Machine_Learning_Cheatsheet_web") |
  
  - Shervine Amidi - Convolutional Neural Networks Cheatsheet | [Web](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks "Shervine_Amidi_Web") |
- 
- ---------------------
- 
- ## Mathematics
- 
- - Matrix Calculus - The Matrix Calculus You Need For Deep Learning | [Web](https://explained.ai/matrix-calculus/index.html "Matrix_Calculus_web") |
  
  ---------------------
  
