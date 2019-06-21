@@ -48,13 +48,13 @@ Let's take journey to Deep Learning
  
  
  - Basics
-   - Python Basic | [Web](https://github.com/cjs1225/Deep-Learning/tree/master/python) |
+   - Python Basic | [Subfolder](python/) |
  
  - Numpy
    - Python Numpy Tutorials | [Web](http://cs231n.github.io/python-numpy-tutorial/ "Python_Numpy_Tutorials") | 
    
  - Pandas
-   - | [Subfolder](python/) |
+   - Python Pandas Tutorials | []() |
  
  - Matplotlib
    - ~~
