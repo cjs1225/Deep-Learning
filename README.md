@@ -54,8 +54,8 @@ Let's take journey to Deep Learning
    - Python Numpy Tutorials | [Web](http://cs231n.github.io/python-numpy-tutorial/ "Python_Numpy_Tutorials") | 
    
  - Pandas
-   - Python Pandas Tutorials | [Web](https://www.marsja.se/pandas-dataframe-read-csv-excel-subset/ "Python_Pandas_Tutorials") |
-   - Python Pandas Tutorials | [Web]() | 
+   - Python Pandas Tutorials | [Web](https://www.marsja.se/pandas-dataframe-read-csv-excel-subset/ "marsja_pandas") |
+   - Python Pandas Cheatsheet | [Web](https://github.com/minsuk-heo/pandas/blob/master/Pandas_Cheatsheet.ipynb "minsuk-heo_pandas") | 
  
  - Matplotlib
    - ~~
