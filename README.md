@@ -73,9 +73,9 @@ Let's take journey to Deep Learning
  
  * [Shortcuts for Jupyter Notebook / Kaggle Notebook](https://github.com/cjs1225/Deep-Learning/blob/master/Jupyter%20Notebook%20Shortcuts.ipynb "kaggle_notebook_shortcuts")
  
- * [Cat vs Dogs]()
+ * [Cat vs Dogs]( "cats_vs_dogs_kaggle")
  
- * [Pneumonia]()
+ * [Pneumonia]( "pneumonia_kaggle")
  
  * [Lung segmentation]()
  
