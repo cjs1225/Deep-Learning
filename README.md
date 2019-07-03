@@ -79,9 +79,7 @@ Let's take journey to Deep Learning
  
  * [Pneumonia]( "pneumonia_kaggle")
  
- * [Lung segmentation]()
- 
- * [Blood Cell Classification]()
+ * [Lung segmentation]( "lung_segmentation_kaggle")
   
  * []() 
  -----------------
