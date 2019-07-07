@@ -56,7 +56,7 @@ Let's take journey to Deep Learning
  - Pandas
    - Pandas Tutorials | [Web](https://www.marsja.se/pandas-dataframe-read-csv-excel-subset/ "marsja_pandas") |
    - Pandas Cheatsheet | [Web](https://github.com/minsuk-heo/pandas/blob/master/Pandas_Cheatsheet.ipynb "minsuk-heo_pandas") | 
-   - Pandas Cheatsheet Image | [Web]( "pandas_cheatsheet_image") | 
+   - Pandas Cheatsheet Image | [Image](https://i.pinimg.com/originals/39/08/5c/39085c27945ad3eb49e0de7dff6f0b0e.png "pandas_cheatsheet_image") | 
  
  - Matplotlib
    - ~~
