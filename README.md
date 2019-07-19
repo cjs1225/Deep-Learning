@@ -64,8 +64,11 @@ Let's take journey to Deep Learning
  - Crawling
    - ~~
  
- - Etc
+ - OpenCV
    - ~~
+   
+ - Etc
+   - ~~ 
  
  ------------------
  
