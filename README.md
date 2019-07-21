@@ -95,7 +95,7 @@ Let's take journey to Deep Learning
  
  *if you want to see papers with **new window(tab)**, please click with **ctrl(cmd) key**.*
  
- ### Imagenet
+ ### Classification
  
  - **AlexNet** (Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. **"Imagenet classification with deep convolutional neural networks."** Neural Information Processing Systems. 2012) | [pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf "AlexNet_pdf") |
  
@@ -110,7 +110,7 @@ Let's take journey to Deep Learning
  
  - **DenseNet** (Gao Huang, Zhuang Liu, et al. **"Densely Connected Convolutional Networks."** Computer Vision and Pattern Recognition. 2017) | [pdf](https://arxiv.org/pdf/1608.06993.pdf "DenseNet_pdf") | 
 
- ### Object Dectection
+ ### Dectection & Segmentation
  
  - **DNN based Detection** (Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. **"Deep neural networks for object detection."** Neural Information Processing Systems. 2013) | [pdf](https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf "DNN-based-Detection_pdf") |
  
@@ -132,8 +132,6 @@ Let's take journey to Deep Learning
  
  - **Mask R-CNN** (Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick. **"Mask R-CNN."** International Conference on Conputer Vision. 2017) | [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf "Mask_R-CNN_pdf") |
  
- 
- ### Semantic Segmentation
  
  - **FCN** (J. Long, E. Shelhamer, and T. Darrell. **"Fully convolutional networks for semantic segmentation."** Computer Vision and Pattern Recognition. 2015) | [pdf](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf "FCN_Seg_pdf") |
  
