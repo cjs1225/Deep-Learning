@@ -110,6 +110,7 @@ Let's take journey to Deep Learning
  
  - **DenseNet** (Gao Huang, Zhuang Liu, et al. **"Densely Connected Convolutional Networks."** Computer Vision and Pattern Recognition. 2017) | [pdf](https://arxiv.org/pdf/1608.06993.pdf "DenseNet_pdf") | 
 
+
  ### Dectection & Segmentation
  
  - **DNN based Detection** (Szegedy, Christian, Alexander Toshev, and Dumitru Erhan. **"Deep neural networks for object detection."** Neural Information Processing Systems. 2013) | [pdf](https://papers.nips.cc/paper/5207-deep-neural-networks-for-object-detection.pdf "DNN-based-Detection_pdf") |
@@ -142,6 +143,7 @@ Let's take journey to Deep Learning
  
  ### Etc
  
+ - **CAM** (Bolei Zhou et al. **"Learning Deep Features for Discriminative Localization."** Computer Vision and Pattern Recognition. 2016) | [pdf](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf "CAM_pdf")
  
  - **blah** ( **"Striving for simplicity: The all convolutional net"**) | [pdf](https://arxiv.org/pdf/1412.6806.pdf "all_conv_net_pdf") |
  
