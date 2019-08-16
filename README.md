@@ -145,7 +145,7 @@ Let's take journey to Deep Learning
  
  - **CAM** (Bolei Zhou et al. **"Learning Deep Features for Discriminative Localization."** Computer Vision and Pattern Recognition. 2016) | [pdf](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf "CAM_pdf") |
  
- - **blah** ( **"Striving for simplicity: The all convolutional net"**) | [pdf](https://arxiv.org/pdf/1412.6806.pdf "all_conv_net_pdf") |
+ - **The all convolutional net** ( **"Striving for simplicity: The all convolutional net"**) | [pdf](https://arxiv.org/pdf/1412.6806.pdf "all_conv_net_pdf") |
  
  --------------------
  
