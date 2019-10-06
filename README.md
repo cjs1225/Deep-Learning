@@ -108,7 +108,7 @@ Let's take journey to Deep Learning
  
  - **ResNet** (He, Kaiming, et al. **"Deep residual learning for image recognition."** International Conference and Computer Vision.2015) | [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf "ResNet_pdf") |
  
- - **ResNet(updated)** (Kaiming He et al. **"Aggregated Residual Transformations for Deep Neural Networks"** Computer Vision and Pattern Recognition. 2016) | [pdf](https://arxiv.org/pdf/1611.05431.pdf "ResNet_updated_pdf") |
+ - **ResNeXt** (Kaiming He et al. **"Aggregated Residual Transformations for Deep Neural Networks"** Computer Vision and Pattern Recognition. 2016) | [pdf](https://arxiv.org/pdf/1611.05431.pdf "ResNet_updated_pdf") |
  
  - **DenseNet** (Gao Huang, Zhuang Liu, et al. **"Densely Connected Convolutional Networks."** Computer Vision and Pattern Recognition. 2017) | [pdf](https://arxiv.org/pdf/1608.06993.pdf "DenseNet_pdf") | 
 
