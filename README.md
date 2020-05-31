@@ -149,6 +149,10 @@ Let's take journey to Deep Learning
  
  - **The all convolutional net** ( **"Striving for simplicity: The all convolutional net"**) | [pdf](https://arxiv.org/pdf/1412.6806.pdf "all_conv_net_pdf") |
  
+ - **Deep Learning Bookmarks for studying** | [Web]("https://bbongcol.github.io/deep-learning-bookmarks/") |
+ 
+ - **Browse State of the art of Deep Learning** | [Web]("https://paperswithcode.com/sota") |
+ 
  --------------------
  
  
